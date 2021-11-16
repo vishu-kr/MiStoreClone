@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MiStoreClone/static/css/main.4223cf9f.chunk.css",
+    "main.js": "/MiStoreClone/static/js/main.8c66a8e6.chunk.js",
+    "main.js.map": "/MiStoreClone/static/js/main.8c66a8e6.chunk.js.map",
+    "runtime-main.js": "/MiStoreClone/static/js/runtime-main.26a715bb.js",
+    "runtime-main.js.map": "/MiStoreClone/static/js/runtime-main.26a715bb.js.map",
+    "static/css/2.1dd1e755.chunk.css": "/MiStoreClone/static/css/2.1dd1e755.chunk.css",
+    "static/js/2.712a4bfd.chunk.js": "/MiStoreClone/static/js/2.712a4bfd.chunk.js",
+    "static/js/2.712a4bfd.chunk.js.map": "/MiStoreClone/static/js/2.712a4bfd.chunk.js.map",
+    "index.html": "/MiStoreClone/index.html",
+    "static/css/2.1dd1e755.chunk.css.map": "/MiStoreClone/static/css/2.1dd1e755.chunk.css.map",
+    "static/css/main.4223cf9f.chunk.css.map": "/MiStoreClone/static/css/main.4223cf9f.chunk.css.map",
+    "static/js/2.712a4bfd.chunk.js.LICENSE.txt": "/MiStoreClone/static/js/2.712a4bfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a715bb.js",
+    "static/css/2.1dd1e755.chunk.css",
+    "static/js/2.712a4bfd.chunk.js",
+    "static/css/main.4223cf9f.chunk.css",
+    "static/js/main.8c66a8e6.chunk.js"
+  ]
+}
